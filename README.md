@@ -7,4 +7,4 @@ I'm a Co-Founder and the CTO of [Widgetbook](https://www.widgetbook.io/) in Biel
 - 🧗🏻 I’m currently learning rock climbing
 - 👨🏼‍💻 I’m looking to collaborate on open source projects
 - 💬 Ask me about [Flutter](https://flutter.dev/) and [Dart](https://dart.dev/).
-- 😄 Pronouns: Pronouns: he/him/his
+- 😄 Pronouns: he/him/his
